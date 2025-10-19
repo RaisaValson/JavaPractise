@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VowelOrConsonent {
+public class Lab19_vowelorconsonent {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the character");
